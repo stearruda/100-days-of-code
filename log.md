@@ -17,3 +17,12 @@
 **Thoughts:** Day by day I can understand a bit more of TDD and Jasmine. A big progress for me. 
 
 **Link to work:** [Feed Reader Testing](https://github.com/stearruda/feed-reader-testing)
+
+### Day 2: June 10, 2018
+##### (Udacity's Project)
+
+**Today's Progress:** Project Feed Reader Testing finished and submitted for Udacity's Reviewers.
+
+**Thoughts:** A very productive Sunday. That's all I have to say. :) 
+
+**Link to work:** [Feed Reader Testing](https://github.com/stearruda/feed-reader-testing)
