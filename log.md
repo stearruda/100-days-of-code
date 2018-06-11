@@ -26,3 +26,12 @@
 **Thoughts:** A very productive Sunday. That's all I have to say. :) 
 
 **Link to work:** [Feed Reader Testing](https://github.com/stearruda/feed-reader-testing)
+
+### Day 3: June 11, 2018
+##### (Udacity's Project)
+
+**Today's Progress:** Project Feed Reader Testing is finally approved after fixed some issues.
+
+**Thoughts:** Some of my Test Suites required some rework, but now I'm good to go to the next Project.
+
+**Link to work:** [Feed Reader Testing](https://github.com/stearruda/feed-reader-testing)
