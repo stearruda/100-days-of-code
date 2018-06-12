@@ -35,3 +35,13 @@
 **Thoughts:** Some of my Test Suites required some rework, but now I'm good to go to the next Project.
 
 **Link to work:** [Feed Reader Testing](https://github.com/stearruda/feed-reader-testing)
+
+### Day 4: June 12, 2018
+##### (Udacity's Project and Exercise)
+
+**Today's Progress:** Start the Project 6 of Udacity's FEND >> Restaurant Reviews App - Stage 1 (work 1) and a Cat Clicker for an exercise (work 2)
+
+**Thoughts:** I had to delete mw whole directory of P6 becaude of a long story about API's and lack of attention (my fault :/). Besides that part, my day was pretty good.
+
+**Link to work 1:** [Cat Clicker](https://github.com/stearruda/cat-clicker)
+**Link to work 2:** [Restaurant Reviews App - Stage 1](https://github.com/stearruda/restaurant-reviews-app-stage-1)
