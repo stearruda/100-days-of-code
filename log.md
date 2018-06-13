@@ -45,3 +45,12 @@
 
 **Link to work 1:** [Cat Clicker](https://github.com/stearruda/cat-clicker)
 **Link to work 2:** [Restaurant Reviews App - Stage 1](https://github.com/stearruda/restaurant-reviews-app-stage-1)
+
+### Day 5: June 13, 2018
+##### (Udacity's Exercise)
+
+**Today's Progress:** I've reached a new requirement of Cat Clicker that gave me an opportunity to research and study more about Closure and IIFE.
+
+**Thoughts:** Cat Clicker has been more difficult than I thought. 
+
+**Link to work 2:** [Cat Clicker](https://github.com/stearruda/cat-clicker)
