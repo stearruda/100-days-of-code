@@ -53,4 +53,13 @@
 
 **Thoughts:** Cat Clicker has been more difficult than I thought. 
 
-**Link to work 2:** [Cat Clicker](https://github.com/stearruda/cat-clicker)
+**Link to work:** [Cat Clicker](https://github.com/stearruda/cat-clicker)
+
+### Day 6: June 14, 2018
+##### (Udacity's Exercise)
+
+**Today's Progress:** Cat Clicker is done!
+
+**Thoughts:** No regrets on doing this exercise. Each day I value more these carefree type of exercises. Or even projects where the goal is just to learn or practice something that you've heard or read.
+
+**Link to work:** [Cat Clicker](https://github.com/stearruda/cat-clicker)
