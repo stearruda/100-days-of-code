@@ -63,3 +63,12 @@
 **Thoughts:** No regrets on doing this exercise. Each day I value more these carefree type of exercises. Or even projects where the goal is just to learn or practice something that you've heard or read.
 
 **Link to work:** [Cat Clicker](https://github.com/stearruda/cat-clicker)
+
+### Day 7: June 15, 2018
+##### (CodeFights and Udacity's Lesson)
+
+**Today's Progress:** A CodeFights's task solved and 1 Lesson of Udacity's JavaScript Design Pattern finished.
+
+**Thoughts:** I'm always fascinated by the amount of different ways that you can write a code.
+
+**Link to work:** [CodeFights](https://codefights.com/profile/stearruda)
