@@ -72,3 +72,12 @@
 **Thoughts:** I'm always fascinated by the amount of different ways that you can write a code.
 
 **Link to work:** [CodeFights](https://codefights.com/profile/stearruda)
+
+### Day 8: June 18, 2018
+##### (CodeFights and Udacity's Lesson)
+
+**Today's Progress:** A CodeFights's task solved and a good progress on Udacity's AJAX Lessons.
+
+**Thoughts:** It's very hard to code after 2 days not coding. 
+
+**Link to work:** [CodeFights](https://codefights.com/profile/stearruda)
