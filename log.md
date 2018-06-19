@@ -81,3 +81,12 @@
 **Thoughts:** It's very hard to code after 2 days not coding. 
 
 **Link to work:** [CodeFights](https://codefights.com/profile/stearruda)
+
+### Day 9: June 19, 2018
+##### (CodeFights and Udacity's Lesson)
+
+**Today's Progress:** Other CodeFights's task solved and more study on Udacity's AJAX Lessons.
+
+**Thoughts:** AJAX is my new nightmare. 
+
+**Link to work:** [CodeFights](https://codefights.com/profile/stearruda)
