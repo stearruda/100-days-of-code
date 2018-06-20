@@ -90,3 +90,12 @@
 **Thoughts:** AJAX is my new nightmare. 
 
 **Link to work:** [CodeFights](https://codefights.com/profile/stearruda)
+
+### Day 10: June 20, 2018
+##### (Udacity's Lesson)
+
+**Today's Progress:** Finally getting how AJAX works.
+
+**Thoughts:** "I can see clearly now the rain is gone". After many Youtube videos and an excercise of Udacity's AJAX course, my mind got some concepts.
+
+**Link to work:** No work to show today.
