@@ -99,3 +99,12 @@
 **Thoughts:** "I can see clearly now the rain is gone". After many Youtube videos and an excercise of Udacity's AJAX course, my mind got some concepts.
 
 **Link to work:** No work to show today.
+
+### Day 11: June 21, 2018
+##### (Udacity's Lesson)
+
+**Today's Progress:** Very close to finish AJAX lessons and some more study on Promises.
+
+**Thoughts:** Never underestimate JS.
+
+**Link to work:** No work to show today.
