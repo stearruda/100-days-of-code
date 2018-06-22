@@ -108,3 +108,12 @@
 **Thoughts:** Never underestimate JS.
 
 **Link to work:** No work to show today.
+
+### Day 12: June 22, 2018
+##### (Udacity's Lesson)
+
+**Today's Progress:** AJAX Lessons are done!
+
+**Thoughts:** I'm so glad to see asynchronous code and how to handle or understand what is going on. 
+
+**Link to work:** No work to show today.
