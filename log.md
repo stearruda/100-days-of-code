@@ -117,3 +117,12 @@
 **Thoughts:** I'm so glad to see asynchronous code and how to handle or understand what is going on. 
 
 **Link to work:** No work to show today.
+
+### Day 13: June 25, 2018
+##### (Udacity's Lesson)
+
+**Today's Progress:** Service Worker Lessons are done!
+
+**Thoughts:** Very excited to start the 6th Project. I'm not so sure if I understand the whole world of Service Worker, but I still have time to learn. Like my entire life. ;) 
+
+**Link to work:** No work to show today.
