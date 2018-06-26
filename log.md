@@ -126,3 +126,12 @@
 **Thoughts:** Very excited to start the 6th Project. I'm not so sure if I understand the whole world of Service Worker, but I still have time to learn. Like my entire life. ;) 
 
 **Link to work:** No work to show today.
+
+### Day 14: June 26, 2018
+##### (Udacity's Project)
+
+**Today's Progress:** 3 good hours working on my Project nº6 of Udacity's FEND.
+
+**Thoughts:** Don't be egocentric. Be people-centric.
+
+**Link to work:** [Restaurant Reviews App - Stage 1](https://github.com/stearruda/restaurant-reviews-app-stage-1)
