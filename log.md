@@ -135,3 +135,12 @@
 **Thoughts:** Don't be egocentric. Be people-centric.
 
 **Link to work:** [Restaurant Reviews App - Stage 1](https://github.com/stearruda/restaurant-reviews-app-stage-1)
+
+### Day 15: June 27, 2018
+##### (Udacity's Project)
+
+**Today's Progress:** CSS of index.html going well and almost done. Well, until I discover something is wrong after a couple of days. 
+
+**Thoughts:** Sometimes I remember this relationship that I have with CSS. Love and Hate.
+
+**Link to work:** [Restaurant Reviews App - Stage 1](https://github.com/stearruda/restaurant-reviews-app-stage-1)
