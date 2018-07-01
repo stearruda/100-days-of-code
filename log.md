@@ -144,3 +144,12 @@
 **Thoughts:** Sometimes I remember this relationship that I have with CSS. Love and Hate.
 
 **Link to work:** [Restaurant Reviews App - Stage 1](https://github.com/stearruda/restaurant-reviews-app-stage-1)
+
+### Day 16: July 01, 2018
+##### (Udacity's Project)
+
+**Today's Progress:** Everything up and running in P6. The project was also approved! Yay! 
+
+**Thoughts:** Altough I didn't put my log here I was coding a lot. Well, I won't cheat so let's keep it as Day 16. ;)
+
+**Link to work:** [Restaurant Reviews App - Stage 1](https://github.com/stearruda/restaurant-reviews-app-stage-1)
