@@ -153,3 +153,12 @@
 **Thoughts:** Altough I didn't put my log here I was coding a lot. Well, I won't cheat so let's keep it as Day 16. ;)
 
 **Link to work:** [Restaurant Reviews App - Stage 1](https://github.com/stearruda/restaurant-reviews-app-stage-1)
+
+### Day 17: July 02, 2018
+##### (Udacity's Lesson)
+
+**Today's Progress:** Finished 1st Lesson of React. 
+
+**Thoughts:** I'm so excited to learn React so I can be one of the cool kids.
+
+**Link to work:** No work to show today.
