@@ -162,3 +162,12 @@
 **Thoughts:** I'm so excited to learn React so I can be one of the cool kids.
 
 **Link to work:** No work to show today.
+
+### Day 18: August 24, 2018
+##### (Last project of FEWD ND and PHP)
+
+**Today's Progress:** My first code in PHP. 
+
+**Thoughts:** A long time without registering my process it didn't mean that I wasn't coding. No, Sir! I've finished my last project of FEWD Nanodegree and graduated! So now I'm all into my new (and old) projects besides my Web Dev learning. I've decided to learn PHP and MySQL to have a good grasp of how this client/server side works together on the Web. There's no intention to become a Full Stack for now. Front-end is already very challenging. 
+
+**Link to work:** [Check my last project using React.js](https://github.com/stearruda/christmas-market-neighborhood-map)
