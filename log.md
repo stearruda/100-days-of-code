@@ -171,3 +171,12 @@
 **Thoughts:** A long time without registering my process it didn't mean that I wasn't coding. No, Sir! I've finished my last project of FEWD Nanodegree and graduated! So now I'm all into my new (and old) projects besides my Web Dev learning. I've decided to learn PHP and MySQL to have a good grasp of how this client/server side works together on the Web. There's no intention to become a Full Stack for now. Front-end is already very challenging. 
 
 **Link to work:** [Check my last project using React.js](https://github.com/stearruda/christmas-market-neighborhood-map)
+
+### Day 19: August 28, 2018
+##### (Algorithms)
+
+**Today's Progress:** Doing a bunch of exercises.
+
+**Thoughts:** A Brazilian Youtube Channel _Curso em Vídeo_ has been helping me a lot to practice some basics of algorithm. I highly recommend, if you speak portuguese, of course. :)
+
+**Link to work:** No work to show today.
