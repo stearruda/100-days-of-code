@@ -180,3 +180,12 @@
 **Thoughts:** A Brazilian Youtube Channel _Curso em Vídeo_ has been helping me a lot to practice some basics of algorithm. I highly recommend, if you speak portuguese, of course. :)
 
 **Link to work:** No work to show today.
+
+### Day 20: August 30, 2018
+##### (Algorithms)
+
+**Today's Progress:** Doing a bunch of exercises - Part 2 - and I've made my first Fibonacci sequence ever on Scratch. :P
+
+**Thoughts:** Making Fibonacci Sequence is quite equivalent as a "Hello World" to me.
+
+**Link to work:** No work to show today.
