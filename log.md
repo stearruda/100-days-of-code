@@ -189,3 +189,12 @@
 **Thoughts:** Making Fibonacci Sequence is quite equivalent as a "Hello World" to me.
 
 **Link to work:** No work to show today.
+
+### Day 21: September 12, 2018
+##### (Algorithms and PHP)
+
+**Today's Progress:** Finished Algorithms Course and some PHP practices.
+
+**Thoughts:** I know that I'm gonna see Algorithms all the time, but I'm so happy that this change of scenery happened. PHP is on now!
+
+**Link to work:** No work to show today.
