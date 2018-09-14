@@ -198,3 +198,12 @@
 **Thoughts:** I know that I'm gonna see Algorithms all the time, but I'm so happy that this change of scenery happened. PHP is on now!
 
 **Link to work:** No work to show today.
+
+### Day 22: September 14, 2018
+##### (PHP)
+
+**Today's Progress:** I quickly discovered the missing stuff on my PHP code compared to yesterday.
+
+**Thoughts:** Believe me. Quotes and semicolons can give you some headaches.
+
+**Link to work:** No work to show today.
